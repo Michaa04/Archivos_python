@@ -49,17 +49,29 @@ fecha_nac_texto [-20]
 
 #Suma, division, multiplicacion. 
 2+0
+
 2+9
+
 2*9
+
 2 % 9
+
 200 * 9
+
 9 + 11
+
 3 + 9 * 2
+
 3 + 9 * 5
+
 3 + 9 % 4
+
 3 + 9 / 4
+
 20 / 4
+
 20 / 3
+
 20 / 7
 
 #Bin, hex, oct 
